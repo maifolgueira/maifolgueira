@@ -1,4 +1,4 @@
-Physics student from Argentina.
+Estudiante de ciencias físicas
 
 <!---
 maifolgueira/maifolgueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
